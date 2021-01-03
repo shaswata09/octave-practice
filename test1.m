@@ -1,7 +1,8 @@
 % Change Prompt from >> to >>> :)
 % PS1('>>> ');  % Remove comment to execute :) 
 % 'clc' is used to clear Octave Command Window :)
-
+clc
+clear
 printf("Elementry Math Opertaions...\n")
 printf("1 + 2\n")
 1 + 2 % Addition
